@@ -1,0 +1,40 @@
+.statistics{
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 500px;
+    max-height: 300px;
+    border: 2px solid gray;
+   
+}
+.statistics>h2{
+    color: gray;
+    text-align: center;
+    text-transform:uppercase;
+}
+.statList{
+font-size: x-large;
+
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background-color: gray;
+  
+}
+.item{
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid white;
+}
+.label{
+    font-weight: 300;
+    display: block;
+    margin-bottom: 20px;
+}
+.percentage{
+font-weight: 700;
+}
